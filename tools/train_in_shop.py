@@ -10,7 +10,9 @@ from mmfashion.utils import init_weights_from
 
 
 # Load the config from the custom file
-cfg_fname = 'configs/retriever_in_shop/global_retriever_vgg_loss_id_triplet.py' #'configs/retriever_in_shop/global_retriever_resnet.py'
+# cfg_fname = 'configs/retriever_in_shop/global_retriever_vgg_loss_id_triplet.py' # Triplet network
+cfg_fname = 'configs/retriever_in_shop/global_retriever_vgg_loss_id.py' # Plain siamese
+
 cfg = Config.fromfile(cfg_fname)
 
 # Data loader
@@ -22,7 +24,6 @@ print('datasets loaded')
 # Build model and load checkpoint
 model = build_retriever(cfg.model)
 print('model built')
-
 
 # Train
 train_retriever(

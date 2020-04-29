@@ -1,0 +1,702 @@
+datasets loaded
+dataloaders built
+model built
+start training
+Train: [0/25882 (0%)]	Loss: 0.868078	Average nonzero triplets: 68.0
+Train: [2750/25882 (25%)]	Loss: 0.815218	Average nonzero triplets: 178.2549019607843
+Train: [5300/25882 (50%)]	Loss: 0.773412	Average nonzero triplets: 167.5049504950495
+Train: [6150/25882 (74%)]	Loss: 0.782035	Average nonzero triplets: 166.52980132450332
+Train: [8600/25882 (99%)]	Loss: 0.735072	Average nonzero triplets: 160.63681592039802
+Epoch: 1/100. Train set: Average loss: 0.7764	Average nonzero triplets: 160.33168316831683
+Epoch: 1/100. Validation set: Average loss: 0.8098	Average nonzero triplets: 51.846846846846844
+Train: [0/25882 (0%)]	Loss: 0.708004	Average nonzero triplets: 95.0
+Train: [2050/25882 (25%)]	Loss: 0.726369	Average nonzero triplets: 178.07843137254903
+Train: [3500/25882 (50%)]	Loss: 0.744882	Average nonzero triplets: 164.63366336633663
+Train: [6300/25882 (74%)]	Loss: 0.732164	Average nonzero triplets: 165.7019867549669
+Train: [8600/25882 (99%)]	Loss: 0.687013	Average nonzero triplets: 164.2139303482587
+Epoch: 2/100. Train set: Average loss: 0.7237	Average nonzero triplets: 163.68316831683168
+Epoch: 2/100. Validation set: Average loss: 0.7732	Average nonzero triplets: 47.95495495495496
+Train: [0/25882 (0%)]	Loss: 0.555242	Average nonzero triplets: 271.0
+Train: [1700/25882 (25%)]	Loss: 0.709663	Average nonzero triplets: 172.2549019607843
+Train: [4500/25882 (50%)]	Loss: 0.747495	Average nonzero triplets: 174.20792079207922
+Train: [6600/25882 (74%)]	Loss: 0.717909	Average nonzero triplets: 172.13907284768212
+Train: [8600/25882 (99%)]	Loss: 0.706556	Average nonzero triplets: 170.4726368159204
+Epoch: 3/100. Train set: Average loss: 0.7184	Average nonzero triplets: 170.43069306930693
+Epoch: 3/100. Validation set: Average loss: 0.7280	Average nonzero triplets: 47.6036036036036
+Train: [0/25882 (0%)]	Loss: 0.813494	Average nonzero triplets: 166.0
+Train: [3000/25882 (25%)]	Loss: 0.701045	Average nonzero triplets: 166.05882352941177
+Train: [5500/25882 (50%)]	Loss: 0.665402	Average nonzero triplets: 164.96039603960395
+Train: [7650/25882 (74%)]	Loss: 0.685654	Average nonzero triplets: 168.01324503311258
+Train: [9000/25882 (99%)]	Loss: 0.726776	Average nonzero triplets: 164.16915422885572
+Epoch: 4/100. Train set: Average loss: 0.6955	Average nonzero triplets: 164.3861386138614
+Epoch: 4/100. Validation set: Average loss: 0.7605	Average nonzero triplets: 52.792792792792795
+Train: [0/25882 (0%)]	Loss: 0.668313	Average nonzero triplets: 85.0
+Train: [2700/25882 (25%)]	Loss: 0.702379	Average nonzero triplets: 179.90196078431373
+Train: [5500/25882 (50%)]	Loss: 0.692415	Average nonzero triplets: 169.990099009901
+Train: [7800/25882 (74%)]	Loss: 0.660940	Average nonzero triplets: 167.04635761589404
+Train: [11800/25882 (99%)]	Loss: 0.651028	Average nonzero triplets: 163.18407960199005
+Epoch: 5/100. Train set: Average loss: 0.6761	Average nonzero triplets: 163.02475247524754
+Epoch: 5/100. Validation set: Average loss: 0.7083	Average nonzero triplets: 49.846846846846844
+Train: [0/25882 (0%)]	Loss: 0.476060	Average nonzero triplets: 81.0
+Train: [3150/25882 (25%)]	Loss: 0.647410	Average nonzero triplets: 153.90196078431373
+Train: [7100/25882 (50%)]	Loss: 0.677714	Average nonzero triplets: 166.88118811881188
+Train: [9000/25882 (74%)]	Loss: 0.660531	Average nonzero triplets: 163.90066225165563
+Train: [11600/25882 (99%)]	Loss: 0.647076	Average nonzero triplets: 159.0497512437811
+Epoch: 6/100. Train set: Average loss: 0.6575	Average nonzero triplets: 159.37128712871288
+Epoch: 6/100. Validation set: Average loss: 0.6679	Average nonzero triplets: 49.85585585585586
+Train: [0/25882 (0%)]	Loss: 0.892210	Average nonzero triplets: 307.0
+Train: [3450/25882 (25%)]	Loss: 0.657355	Average nonzero triplets: 188.88235294117646
+Train: [6100/25882 (50%)]	Loss: 0.657691	Average nonzero triplets: 171.5049504950495
+Train: [6900/25882 (74%)]	Loss: 0.655046	Average nonzero triplets: 174.34437086092714
+Train: [8200/25882 (99%)]	Loss: 0.678191	Average nonzero triplets: 172.46268656716418
+Epoch: 7/100. Train set: Average loss: 0.6631	Average nonzero triplets: 172.47029702970298
+Epoch: 7/100. Validation set: Average loss: 0.6625	Average nonzero triplets: 57.14414414414414
+Train: [0/25882 (0%)]	Loss: 0.748172	Average nonzero triplets: 129.0
+Train: [2800/25882 (25%)]	Loss: 0.651012	Average nonzero triplets: 147.6078431372549
+Train: [6900/25882 (50%)]	Loss: 0.614383	Average nonzero triplets: 160.22772277227722
+Train: [4350/25882 (74%)]	Loss: 0.615916	Average nonzero triplets: 146.41721854304635
+Train: [10600/25882 (99%)]	Loss: 0.610071	Average nonzero triplets: 144.88059701492537
+Epoch: 8/100. Train set: Average loss: 0.6232	Average nonzero triplets: 144.57920792079207
+Epoch: 8/100. Validation set: Average loss: 0.6176	Average nonzero triplets: 48.4954954954955
+Train: [0/25882 (0%)]	Loss: 0.506483	Average nonzero triplets: 151.0
+Train: [2050/25882 (25%)]	Loss: 0.621812	Average nonzero triplets: 155.3921568627451
+Train: [5500/25882 (50%)]	Loss: 0.570181	Average nonzero triplets: 143.55445544554456
+Train: [6450/25882 (74%)]	Loss: 0.572111	Average nonzero triplets: 144.7814569536424
+Train: [6800/25882 (99%)]	Loss: 0.591732	Average nonzero triplets: 147.17412935323384
+Epoch: 9/100. Train set: Average loss: 0.5878	Average nonzero triplets: 147.14851485148515
+Epoch: 9/100. Validation set: Average loss: 0.6613	Average nonzero triplets: 53.52252252252252
+Train: [0/25882 (0%)]	Loss: 0.558383	Average nonzero triplets: 157.0
+Train: [2800/25882 (25%)]	Loss: 0.609384	Average nonzero triplets: 151.0392156862745
+Train: [4800/25882 (50%)]	Loss: 0.643472	Average nonzero triplets: 155.17821782178217
+Train: [5550/25882 (74%)]	Loss: 0.616880	Average nonzero triplets: 157.19205298013244
+Train: [10600/25882 (99%)]	Loss: 0.635273	Average nonzero triplets: 155.53731343283582
+Epoch: 10/100. Train set: Average loss: 0.6266	Average nonzero triplets: 155.79207920792078
+Epoch: 10/100. Validation set: Average loss: 0.6226	Average nonzero triplets: 49.585585585585584
+Train: [0/25882 (0%)]	Loss: 0.573290	Average nonzero triplets: 132.0
+Train: [2200/25882 (25%)]	Loss: 0.578917	Average nonzero triplets: 158.3921568627451
+Train: [4300/25882 (50%)]	Loss: 0.590719	Average nonzero triplets: 161.009900990099
+Train: [7350/25882 (74%)]	Loss: 0.580494	Average nonzero triplets: 161.6887417218543
+Train: [9600/25882 (99%)]	Loss: 0.593418	Average nonzero triplets: 158.9402985074627
+Epoch: 11/100. Train set: Average loss: 0.5864	Average nonzero triplets: 158.77227722772278
+Epoch: 11/100. Validation set: Average loss: 0.5971	Average nonzero triplets: 55.85585585585586
+Train: [0/25882 (0%)]	Loss: 0.437855	Average nonzero triplets: 81.0
+Train: [2850/25882 (25%)]	Loss: 0.572173	Average nonzero triplets: 132.7450980392157
+Train: [4300/25882 (50%)]	Loss: 0.568681	Average nonzero triplets: 142.30693069306932
+Train: [7350/25882 (74%)]	Loss: 0.592758	Average nonzero triplets: 147.0066225165563
+Train: [9600/25882 (99%)]	Loss: 0.574108	Average nonzero triplets: 149.13432835820896
+Epoch: 12/100. Train set: Average loss: 0.5750	Average nonzero triplets: 149.16831683168317
+Epoch: 12/100. Validation set: Average loss: 0.6160	Average nonzero triplets: 48.91891891891892
+Train: [0/25882 (0%)]	Loss: 0.708976	Average nonzero triplets: 180.0
+Train: [1950/25882 (25%)]	Loss: 0.601774	Average nonzero triplets: 150.92156862745097
+Train: [4200/25882 (50%)]	Loss: 0.601736	Average nonzero triplets: 143.14851485148515
+Train: [5100/25882 (74%)]	Loss: 0.573375	Average nonzero triplets: 146.59602649006624
+Train: [8000/25882 (99%)]	Loss: 0.580494	Average nonzero triplets: 152.22885572139305
+Epoch: 13/100. Train set: Average loss: 0.5907	Average nonzero triplets: 151.93564356435644
+Epoch: 13/100. Validation set: Average loss: 0.6095	Average nonzero triplets: 57.18018018018018
+Train: [0/25882 (0%)]	Loss: 0.605707	Average nonzero triplets: 136.0
+Train: [2200/25882 (25%)]	Loss: 0.571457	Average nonzero triplets: 152.98039215686273
+Train: [4900/25882 (50%)]	Loss: 0.561938	Average nonzero triplets: 152.86138613861385
+Train: [5550/25882 (74%)]	Loss: 0.585042	Average nonzero triplets: 155.841059602649
+Train: [8400/25882 (99%)]	Loss: 0.557418	Average nonzero triplets: 150.70149253731344
+Epoch: 14/100. Train set: Average loss: 0.5692	Average nonzero triplets: 150.490099009901
+Epoch: 14/100. Validation set: Average loss: 0.6154	Average nonzero triplets: 51.0990990990991
+Train: [0/25882 (0%)]	Loss: 0.655165	Average nonzero triplets: 127.0
+Train: [2300/25882 (25%)]	Loss: 0.565774	Average nonzero triplets: 155.90196078431373
+Train: [4300/25882 (50%)]	Loss: 0.590439	Average nonzero triplets: 164.0
+Train: [6000/25882 (74%)]	Loss: 0.563524	Average nonzero triplets: 163.58940397350995
+Train: [6800/25882 (99%)]	Loss: 0.538569	Average nonzero triplets: 159.96517412935324
+Epoch: 15/100. Train set: Average loss: 0.5655	Average nonzero triplets: 159.82178217821783
+Epoch: 15/100. Validation set: Average loss: 0.5952	Average nonzero triplets: 47.126126126126124
+Train: [0/25882 (0%)]	Loss: 0.529989	Average nonzero triplets: 62.0
+Train: [1850/25882 (25%)]	Loss: 0.558258	Average nonzero triplets: 154.4313725490196
+Train: [4300/25882 (50%)]	Loss: 0.562780	Average nonzero triplets: 156.7128712871287
+Train: [6450/25882 (74%)]	Loss: 0.534550	Average nonzero triplets: 155.52980132450332
+Train: [8000/25882 (99%)]	Loss: 0.543265	Average nonzero triplets: 157.61194029850745
+Epoch: 16/100. Train set: Average loss: 0.5488	Average nonzero triplets: 157.12376237623764
+Epoch: 16/100. Validation set: Average loss: 0.5963	Average nonzero triplets: 49.666666666666664
+Train: [0/25882 (0%)]	Loss: 0.554912	Average nonzero triplets: 106.0
+Train: [2000/25882 (25%)]	Loss: 0.549406	Average nonzero triplets: 139.11764705882354
+Train: [5000/25882 (50%)]	Loss: 0.570755	Average nonzero triplets: 146.77227722772278
+Train: [5700/25882 (74%)]	Loss: 0.565175	Average nonzero triplets: 140.90066225165563
+Train: [7600/25882 (99%)]	Loss: 0.563438	Average nonzero triplets: 137.85572139303483
+Epoch: 17/100. Train set: Average loss: 0.5628	Average nonzero triplets: 137.93564356435644
+Epoch: 17/100. Validation set: Average loss: 0.5879	Average nonzero triplets: 48.351351351351354
+Train: [0/25882 (0%)]	Loss: 0.422547	Average nonzero triplets: 173.0
+Train: [1850/25882 (25%)]	Loss: 0.561697	Average nonzero triplets: 167.66666666666666
+Train: [5100/25882 (50%)]	Loss: 0.549860	Average nonzero triplets: 157.7128712871287
+Train: [10050/25882 (74%)]	Loss: 0.567598	Average nonzero triplets: 154.3841059602649
+Train: [9600/25882 (99%)]	Loss: 0.555372	Average nonzero triplets: 155.0497512437811
+Epoch: 18/100. Train set: Average loss: 0.5575	Average nonzero triplets: 154.5148514851485
+Epoch: 18/100. Validation set: Average loss: 0.5980	Average nonzero triplets: 46.78378378378378
+Train: [0/25882 (0%)]	Loss: 0.608651	Average nonzero triplets: 273.0
+Train: [2850/25882 (25%)]	Loss: 0.551413	Average nonzero triplets: 155.15686274509804
+Train: [6900/25882 (50%)]	Loss: 0.536168	Average nonzero triplets: 155.27722772277227
+Train: [4800/25882 (74%)]	Loss: 0.564149	Average nonzero triplets: 146.1456953642384
+Train: [10400/25882 (99%)]	Loss: 0.528089	Average nonzero triplets: 145.30348258706468
+Epoch: 19/100. Train set: Average loss: 0.5445	Average nonzero triplets: 145.22772277227722
+Epoch: 19/100. Validation set: Average loss: 0.5752	Average nonzero triplets: 50.171171171171174
+Train: [0/25882 (0%)]	Loss: 0.639537	Average nonzero triplets: 179.0
+Train: [3000/25882 (25%)]	Loss: 0.594836	Average nonzero triplets: 149.72549019607843
+Train: [4800/25882 (50%)]	Loss: 0.564583	Average nonzero triplets: 147.25742574257427
+Train: [5250/25882 (74%)]	Loss: 0.568709	Average nonzero triplets: 150.33112582781456
+Train: [6800/25882 (99%)]	Loss: 0.549891	Average nonzero triplets: 146.52238805970148
+Epoch: 20/100. Train set: Average loss: 0.5701	Average nonzero triplets: 146.0990099009901
+Epoch: 20/100. Validation set: Average loss: 0.6162	Average nonzero triplets: 43.5045045045045
+Train: [0/25882 (0%)]	Loss: 0.630928	Average nonzero triplets: 90.0
+Train: [2900/25882 (25%)]	Loss: 0.573021	Average nonzero triplets: 152.50980392156862
+Train: [5400/25882 (50%)]	Loss: 0.545252	Average nonzero triplets: 154.74257425742573
+Train: [9600/25882 (74%)]	Loss: 0.555146	Average nonzero triplets: 160.50331125827816
+Train: [13000/25882 (99%)]	Loss: 0.578451	Average nonzero triplets: 159.59203980099502
+Epoch: 21/100. Train set: Average loss: 0.5636	Average nonzero triplets: 159.58415841584159
+Epoch: 21/100. Validation set: Average loss: 0.6101	Average nonzero triplets: 54.13513513513514
+Train: [0/25882 (0%)]	Loss: 0.437292	Average nonzero triplets: 73.0
+Train: [2650/25882 (25%)]	Loss: 0.560626	Average nonzero triplets: 163.47058823529412
+Train: [4600/25882 (50%)]	Loss: 0.583844	Average nonzero triplets: 160.92079207920793
+Train: [6600/25882 (74%)]	Loss: 0.540117	Average nonzero triplets: 156.47682119205297
+Train: [7400/25882 (99%)]	Loss: 0.575759	Average nonzero triplets: 150.1492537313433
+Epoch: 22/100. Train set: Average loss: 0.5648	Average nonzero triplets: 150.19306930693068
+Epoch: 22/100. Validation set: Average loss: 0.5928	Average nonzero triplets: 46.171171171171174
+Train: [0/25882 (0%)]	Loss: 0.479849	Average nonzero triplets: 182.0
+Train: [1800/25882 (25%)]	Loss: 0.542229	Average nonzero triplets: 163.88235294117646
+Train: [4500/25882 (50%)]	Loss: 0.551113	Average nonzero triplets: 161.6039603960396
+Train: [7350/25882 (74%)]	Loss: 0.568835	Average nonzero triplets: 150.42384105960264
+Train: [9400/25882 (99%)]	Loss: 0.543484	Average nonzero triplets: 150.45771144278606
+Epoch: 23/100. Train set: Average loss: 0.5508	Average nonzero triplets: 150.11881188118812
+Epoch: 23/100. Validation set: Average loss: 0.5967	Average nonzero triplets: 51.486486486486484
+Train: [0/25882 (0%)]	Loss: 0.465241	Average nonzero triplets: 125.0
+Train: [2200/25882 (25%)]	Loss: 0.589510	Average nonzero triplets: 154.94117647058823
+Train: [3900/25882 (50%)]	Loss: 0.546157	Average nonzero triplets: 153.97029702970298
+Train: [7500/25882 (74%)]	Loss: 0.545592	Average nonzero triplets: 149.65562913907286
+Train: [14600/25882 (99%)]	Loss: 0.541049	Average nonzero triplets: 149.66169154228857
+Epoch: 24/100. Train set: Average loss: 0.5555	Average nonzero triplets: 149.35148514851485
+Epoch: 24/100. Validation set: Average loss: 0.5938	Average nonzero triplets: 56.55855855855856
+Train: [0/25882 (0%)]	Loss: 0.484929	Average nonzero triplets: 173.0
+Train: [2350/25882 (25%)]	Loss: 0.558331	Average nonzero triplets: 146.05882352941177
+Train: [6800/25882 (50%)]	Loss: 0.582080	Average nonzero triplets: 146.21782178217822
+Train: [5250/25882 (74%)]	Loss: 0.538636	Average nonzero triplets: 147.58278145695365
+Train: [13600/25882 (99%)]	Loss: 0.553844	Average nonzero triplets: 142.50248756218906
+Epoch: 25/100. Train set: Average loss: 0.5581	Average nonzero triplets: 142.8019801980198
+Epoch: 25/100. Validation set: Average loss: 0.5859	Average nonzero triplets: 50.8018018018018
+Train: [0/25882 (0%)]	Loss: 0.680204	Average nonzero triplets: 91.0
+Train: [2650/25882 (25%)]	Loss: 0.535816	Average nonzero triplets: 148.19607843137254
+Train: [4700/25882 (50%)]	Loss: 0.578054	Average nonzero triplets: 152.95049504950495
+Train: [6150/25882 (74%)]	Loss: 0.559292	Average nonzero triplets: 146.66225165562915
+Train: [11800/25882 (99%)]	Loss: 0.565419	Average nonzero triplets: 149.5721393034826
+Epoch: 26/100. Train set: Average loss: 0.5600	Average nonzero triplets: 149.15346534653466
+Epoch: 26/100. Validation set: Average loss: 0.5858	Average nonzero triplets: 49.234234234234236
+Train: [0/25882 (0%)]	Loss: 0.554715	Average nonzero triplets: 95.0
+Train: [2600/25882 (25%)]	Loss: 0.557203	Average nonzero triplets: 146.6078431372549
+Train: [5400/25882 (50%)]	Loss: 0.534964	Average nonzero triplets: 147.88118811881188
+Train: [5850/25882 (74%)]	Loss: 0.567436	Average nonzero triplets: 151.35761589403972
+Train: [12600/25882 (99%)]	Loss: 0.556571	Average nonzero triplets: 157.25870646766168
+Epoch: 27/100. Train set: Average loss: 0.5531	Average nonzero triplets: 156.76732673267327
+Epoch: 27/100. Validation set: Average loss: 0.5834	Average nonzero triplets: 43.729729729729726
+Train: [0/25882 (0%)]	Loss: 0.387911	Average nonzero triplets: 125.0
+Train: [2800/25882 (25%)]	Loss: 0.598264	Average nonzero triplets: 152.15686274509804
+Train: [4100/25882 (50%)]	Loss: 0.572922	Average nonzero triplets: 149.35643564356437
+Train: [12000/25882 (74%)]	Loss: 0.573596	Average nonzero triplets: 151.2980132450331
+Train: [11200/25882 (99%)]	Loss: 0.562481	Average nonzero triplets: 150.2189054726368
+Epoch: 28/100. Train set: Average loss: 0.5759	Average nonzero triplets: 150.25247524752476
+Epoch: 28/100. Validation set: Average loss: 0.5733	Average nonzero triplets: 48.03603603603604
+Train: [0/25882 (0%)]	Loss: 0.433990	Average nonzero triplets: 68.0
+Train: [1700/25882 (25%)]	Loss: 0.513636	Average nonzero triplets: 133.88235294117646
+Train: [3500/25882 (50%)]	Loss: 0.555947	Average nonzero triplets: 141.83168316831683
+Train: [8550/25882 (74%)]	Loss: 0.544085	Average nonzero triplets: 156.3112582781457
+Train: [12000/25882 (99%)]	Loss: 0.538956	Average nonzero triplets: 150.4278606965174
+Epoch: 29/100. Train set: Average loss: 0.5373	Average nonzero triplets: 150.86633663366337
+Epoch: 29/100. Validation set: Average loss: 0.5905	Average nonzero triplets: 44.6036036036036
+Train: [0/25882 (0%)]	Loss: 0.399526	Average nonzero triplets: 210.0
+Train: [2000/25882 (25%)]	Loss: 0.559295	Average nonzero triplets: 144.2549019607843
+Train: [5000/25882 (50%)]	Loss: 0.571972	Average nonzero triplets: 147.45544554455446
+Train: [7200/25882 (74%)]	Loss: 0.554000	Average nonzero triplets: 144.82119205298014
+Train: [10200/25882 (99%)]	Loss: 0.546871	Average nonzero triplets: 146.98507462686567
+Epoch: 30/100. Train set: Average loss: 0.5562	Average nonzero triplets: 146.58415841584159
+Epoch: 30/100. Validation set: Average loss: 0.5991	Average nonzero triplets: 53.21621621621622
+Train: [0/25882 (0%)]	Loss: 0.615286	Average nonzero triplets: 223.0
+Train: [1850/25882 (25%)]	Loss: 0.587070	Average nonzero triplets: 170.72549019607843
+Train: [4800/25882 (50%)]	Loss: 0.554789	Average nonzero triplets: 160.30693069306932
+Train: [6750/25882 (74%)]	Loss: 0.552997	Average nonzero triplets: 153.49006622516555
+Train: [7000/25882 (99%)]	Loss: 0.589792	Average nonzero triplets: 154.48756218905473
+Epoch: 31/100. Train set: Average loss: 0.5721	Average nonzero triplets: 154.17821782178217
+Epoch: 31/100. Validation set: Average loss: 0.5953	Average nonzero triplets: 53.32432432432432
+Train: [0/25882 (0%)]	Loss: 0.541864	Average nonzero triplets: 156.0
+Train: [2800/25882 (25%)]	Loss: 0.528831	Average nonzero triplets: 151.4313725490196
+Train: [3900/25882 (50%)]	Loss: 0.560501	Average nonzero triplets: 149.53465346534654
+Train: [8550/25882 (74%)]	Loss: 0.598715	Average nonzero triplets: 148.18543046357615
+Train: [12800/25882 (99%)]	Loss: 0.568152	Average nonzero triplets: 151.59701492537314
+Epoch: 32/100. Train set: Average loss: 0.5634	Average nonzero triplets: 151.51980198019803
+Epoch: 32/100. Validation set: Average loss: 0.5932	Average nonzero triplets: 49.945945945945944
+Train: [0/25882 (0%)]	Loss: 0.407397	Average nonzero triplets: 70.0
+Train: [2450/25882 (25%)]	Loss: 0.538568	Average nonzero triplets: 150.62745098039215
+Train: [4800/25882 (50%)]	Loss: 0.548848	Average nonzero triplets: 154.56435643564356
+Train: [5100/25882 (74%)]	Loss: 0.575840	Average nonzero triplets: 161.59602649006624
+Train: [10400/25882 (99%)]	Loss: 0.567880	Average nonzero triplets: 160.89054726368158
+Epoch: 33/100. Train set: Average loss: 0.5579	Average nonzero triplets: 160.6039603960396
+Epoch: 33/100. Validation set: Average loss: 0.5818	Average nonzero triplets: 45.252252252252255
+Train: [0/25882 (0%)]	Loss: 0.677078	Average nonzero triplets: 105.0
+Train: [2550/25882 (25%)]	Loss: 0.561270	Average nonzero triplets: 147.54901960784315
+Train: [5200/25882 (50%)]	Loss: 0.568510	Average nonzero triplets: 147.2970297029703
+Train: [7350/25882 (74%)]	Loss: 0.578217	Average nonzero triplets: 146.0662251655629
+Train: [10400/25882 (99%)]	Loss: 0.558519	Average nonzero triplets: 150.09950248756218
+Epoch: 34/100. Train set: Average loss: 0.5676	Average nonzero triplets: 150.68316831683168
+Epoch: 34/100. Validation set: Average loss: 0.5615	Average nonzero triplets: 44.1981981981982
+Train: [0/25882 (0%)]	Loss: 0.615411	Average nonzero triplets: 166.0
+Train: [2350/25882 (25%)]	Loss: 0.555679	Average nonzero triplets: 166.11764705882354
+Train: [4400/25882 (50%)]	Loss: 0.534084	Average nonzero triplets: 156.01980198019803
+Train: [9750/25882 (74%)]	Loss: 0.561089	Average nonzero triplets: 153.19867549668874
+Train: [9800/25882 (99%)]	Loss: 0.568718	Average nonzero triplets: 152.9452736318408
+Epoch: 35/100. Train set: Average loss: 0.5558	Average nonzero triplets: 152.74257425742573
+Epoch: 35/100. Validation set: Average loss: 0.5992	Average nonzero triplets: 54.846846846846844
+Train: [0/25882 (0%)]	Loss: 0.422830	Average nonzero triplets: 307.0
+Train: [2350/25882 (25%)]	Loss: 0.564836	Average nonzero triplets: 132.90196078431373
+Train: [4100/25882 (50%)]	Loss: 0.547589	Average nonzero triplets: 140.78217821782178
+Train: [6450/25882 (74%)]	Loss: 0.548438	Average nonzero triplets: 141.12582781456953
+Train: [9000/25882 (99%)]	Loss: 0.575951	Average nonzero triplets: 146.03980099502488
+Epoch: 36/100. Train set: Average loss: 0.5583	Average nonzero triplets: 146.1089108910891
+Epoch: 36/100. Validation set: Average loss: 0.5848	Average nonzero triplets: 44.67567567567568
+Train: [0/25882 (0%)]	Loss: 0.724364	Average nonzero triplets: 183.0
+Train: [2150/25882 (25%)]	Loss: 0.571241	Average nonzero triplets: 148.62745098039215
+Train: [4100/25882 (50%)]	Loss: 0.584092	Average nonzero triplets: 154.9108910891089
+Train: [8100/25882 (74%)]	Loss: 0.542169	Average nonzero triplets: 150.19205298013244
+Train: [8800/25882 (99%)]	Loss: 0.572348	Average nonzero triplets: 150.51243781094527
+Epoch: 37/100. Train set: Average loss: 0.5681	Average nonzero triplets: 150.25742574257427
+Epoch: 37/100. Validation set: Average loss: 0.5912	Average nonzero triplets: 52.65765765765766
+Train: [0/25882 (0%)]	Loss: 0.417506	Average nonzero triplets: 64.0
+Train: [2500/25882 (25%)]	Loss: 0.563124	Average nonzero triplets: 145.3921568627451
+Train: [5300/25882 (50%)]	Loss: 0.545395	Average nonzero triplets: 142.7029702970297
+Train: [6900/25882 (74%)]	Loss: 0.566705	Average nonzero triplets: 136.27152317880794
+Train: [6800/25882 (99%)]	Loss: 0.529738	Average nonzero triplets: 137.73134328358208
+Epoch: 38/100. Train set: Average loss: 0.5518	Average nonzero triplets: 138.2128712871287
+Epoch: 38/100. Validation set: Average loss: 0.5655	Average nonzero triplets: 51.27927927927928
+Train: [0/25882 (0%)]	Loss: 0.552547	Average nonzero triplets: 215.0
+Train: [2150/25882 (25%)]	Loss: 0.590466	Average nonzero triplets: 154.4313725490196
+Train: [6300/25882 (50%)]	Loss: 0.551550	Average nonzero triplets: 161.52475247524754
+Train: [6600/25882 (74%)]	Loss: 0.561446	Average nonzero triplets: 167.83443708609272
+Train: [8800/25882 (99%)]	Loss: 0.586725	Average nonzero triplets: 161.47761194029852
+Epoch: 39/100. Train set: Average loss: 0.5719	Average nonzero triplets: 161.02475247524754
+Epoch: 39/100. Validation set: Average loss: 0.5941	Average nonzero triplets: 43.387387387387385
+Train: [0/25882 (0%)]	Loss: 0.742854	Average nonzero triplets: 210.0
+Train: [3000/25882 (25%)]	Loss: 0.537636	Average nonzero triplets: 127.96078431372548
+Train: [4300/25882 (50%)]	Loss: 0.570212	Average nonzero triplets: 136.77227722772278
+Train: [5250/25882 (74%)]	Loss: 0.566853	Average nonzero triplets: 137.1523178807947
+Train: [8000/25882 (99%)]	Loss: 0.588032	Average nonzero triplets: 139.7462686567164
+Epoch: 40/100. Train set: Average loss: 0.5663	Average nonzero triplets: 140.75742574257427
+Epoch: 40/100. Validation set: Average loss: 0.5970	Average nonzero triplets: 45.9009009009009
+Train: [0/25882 (0%)]	Loss: 0.637026	Average nonzero triplets: 434.0
+Train: [2900/25882 (25%)]	Loss: 0.560235	Average nonzero triplets: 143.2156862745098
+Train: [5000/25882 (50%)]	Loss: 0.545285	Average nonzero triplets: 150.75247524752476
+Train: [7500/25882 (74%)]	Loss: 0.542414	Average nonzero triplets: 159.03311258278146
+Train: [10800/25882 (99%)]	Loss: 0.568680	Average nonzero triplets: 158.43781094527364
+Epoch: 41/100. Train set: Average loss: 0.5542	Average nonzero triplets: 158.2970297029703
+Epoch: 41/100. Validation set: Average loss: 0.5946	Average nonzero triplets: 48.04504504504504
+Train: [0/25882 (0%)]	Loss: 0.534569	Average nonzero triplets: 75.0
+Train: [2650/25882 (25%)]	Loss: 0.559101	Average nonzero triplets: 132.33333333333334
+Train: [3600/25882 (50%)]	Loss: 0.561528	Average nonzero triplets: 141.40594059405942
+Train: [7200/25882 (74%)]	Loss: 0.554322	Average nonzero triplets: 137.8543046357616
+Train: [8000/25882 (99%)]	Loss: 0.583965	Average nonzero triplets: 137.86069651741295
+Epoch: 42/100. Train set: Average loss: 0.5644	Average nonzero triplets: 138.01980198019803
+Epoch: 42/100. Validation set: Average loss: 0.5810	Average nonzero triplets: 46.072072072072075
+Train: [0/25882 (0%)]	Loss: 0.486374	Average nonzero triplets: 129.0
+Train: [2450/25882 (25%)]	Loss: 0.548333	Average nonzero triplets: 146.68627450980392
+Train: [4600/25882 (50%)]	Loss: 0.537942	Average nonzero triplets: 142.98019801980197
+Train: [6000/25882 (74%)]	Loss: 0.535246	Average nonzero triplets: 142.11920529801324
+Train: [9600/25882 (99%)]	Loss: 0.571293	Average nonzero triplets: 143.61691542288557
+Epoch: 43/100. Train set: Average loss: 0.5484	Average nonzero triplets: 143.22772277227722
+Epoch: 43/100. Validation set: Average loss: 0.5700	Average nonzero triplets: 52.95495495495496
+Train: [0/25882 (0%)]	Loss: 0.464869	Average nonzero triplets: 174.0
+Train: [2700/25882 (25%)]	Loss: 0.548530	Average nonzero triplets: 156.3921568627451
+Train: [5900/25882 (50%)]	Loss: 0.584698	Average nonzero triplets: 154.55445544554456
+Train: [6600/25882 (74%)]	Loss: 0.570871	Average nonzero triplets: 150.52317880794703
+Train: [8600/25882 (99%)]	Loss: 0.528451	Average nonzero triplets: 148.48756218905473
+Epoch: 44/100. Train set: Average loss: 0.5570	Average nonzero triplets: 148.17821782178217
+Epoch: 44/100. Validation set: Average loss: 0.5797	Average nonzero triplets: 48.27927927927928
+Train: [0/25882 (0%)]	Loss: 0.457424	Average nonzero triplets: 87.0
+Train: [1900/25882 (25%)]	Loss: 0.535971	Average nonzero triplets: 130.64705882352942
+Train: [4200/25882 (50%)]	Loss: 0.532694	Average nonzero triplets: 143.22772277227722
+Train: [7800/25882 (74%)]	Loss: 0.568594	Average nonzero triplets: 146.6158940397351
+Train: [9400/25882 (99%)]	Loss: 0.560212	Average nonzero triplets: 145.56218905472636
+Epoch: 45/100. Train set: Average loss: 0.5484	Average nonzero triplets: 145.26237623762376
+Epoch: 45/100. Validation set: Average loss: 0.6024	Average nonzero triplets: 46.531531531531535
+Train: [0/25882 (0%)]	Loss: 0.540360	Average nonzero triplets: 149.0
+Train: [2150/25882 (25%)]	Loss: 0.555290	Average nonzero triplets: 128.09803921568627
+Train: [4900/25882 (50%)]	Loss: 0.525509	Average nonzero triplets: 139.5148514851485
+Train: [9000/25882 (74%)]	Loss: 0.567905	Average nonzero triplets: 147.6953642384106
+Train: [7400/25882 (99%)]	Loss: 0.550514	Average nonzero triplets: 141.76119402985074
+Epoch: 46/100. Train set: Average loss: 0.5499	Average nonzero triplets: 141.95049504950495
+Epoch: 46/100. Validation set: Average loss: 0.5909	Average nonzero triplets: 46.47747747747748
+Train: [0/25882 (0%)]	Loss: 0.493721	Average nonzero triplets: 178.0
+Train: [2050/25882 (25%)]	Loss: 0.555194	Average nonzero triplets: 135.90196078431373
+Train: [6200/25882 (50%)]	Loss: 0.564443	Average nonzero triplets: 149.25742574257427
+Train: [7350/25882 (74%)]	Loss: 0.577195	Average nonzero triplets: 154.04635761589404
+Train: [9200/25882 (99%)]	Loss: 0.564385	Average nonzero triplets: 149.45273631840797
+Epoch: 47/100. Train set: Average loss: 0.5659	Average nonzero triplets: 149.46039603960395
+Epoch: 47/100. Validation set: Average loss: 0.6281	Average nonzero triplets: 56.01801801801802
+Train: [0/25882 (0%)]	Loss: 0.886765	Average nonzero triplets: 268.0
+Train: [2100/25882 (25%)]	Loss: 0.569837	Average nonzero triplets: 160.5686274509804
+Train: [6100/25882 (50%)]	Loss: 0.560449	Average nonzero triplets: 153.7029702970297
+Train: [8100/25882 (74%)]	Loss: 0.548765	Average nonzero triplets: 149.19867549668874
+Train: [10000/25882 (99%)]	Loss: 0.567871	Average nonzero triplets: 152.87562189054725
+Epoch: 48/100. Train set: Average loss: 0.5635	Average nonzero triplets: 152.43564356435644
+Epoch: 48/100. Validation set: Average loss: 0.5744	Average nonzero triplets: 46.513513513513516
+Train: [0/25882 (0%)]	Loss: 0.667786	Average nonzero triplets: 171.0
+Train: [2800/25882 (25%)]	Loss: 0.538097	Average nonzero triplets: 145.84313725490196
+Train: [5700/25882 (50%)]	Loss: 0.549528	Average nonzero triplets: 141.59405940594058
+Train: [7650/25882 (74%)]	Loss: 0.564969	Average nonzero triplets: 144.7814569536424
+Train: [8800/25882 (99%)]	Loss: 0.538047	Average nonzero triplets: 148.2537313432836
+Epoch: 49/100. Train set: Average loss: 0.5492	Average nonzero triplets: 148.46039603960395
+Epoch: 49/100. Validation set: Average loss: 0.5814	Average nonzero triplets: 51.98198198198198
+Train: [0/25882 (0%)]	Loss: 0.663611	Average nonzero triplets: 156.0
+Train: [2000/25882 (25%)]	Loss: 0.552867	Average nonzero triplets: 148.3921568627451
+Train: [4500/25882 (50%)]	Loss: 0.559756	Average nonzero triplets: 151.36633663366337
+Train: [6600/25882 (74%)]	Loss: 0.563508	Average nonzero triplets: 148.41721854304635
+Train: [8400/25882 (99%)]	Loss: 0.588161	Average nonzero triplets: 150.90049751243782
+Epoch: 50/100. Train set: Average loss: 0.5668	Average nonzero triplets: 150.81683168316832
+Epoch: 50/100. Validation set: Average loss: 0.5591	Average nonzero triplets: 37.009009009009006
+Train: [0/25882 (0%)]	Loss: 0.564641	Average nonzero triplets: 134.0
+Train: [3000/25882 (25%)]	Loss: 0.554332	Average nonzero triplets: 148.88235294117646
+Train: [7100/25882 (50%)]	Loss: 0.578944	Average nonzero triplets: 146.23762376237624
+Train: [10950/25882 (74%)]	Loss: 0.579740	Average nonzero triplets: 150.19205298013244
+Train: [13000/25882 (99%)]	Loss: 0.579848	Average nonzero triplets: 155.29353233830847
+Epoch: 51/100. Train set: Average loss: 0.5726	Average nonzero triplets: 154.90594059405942
+Epoch: 51/100. Validation set: Average loss: 0.6100	Average nonzero triplets: 47.630630630630634
+Train: [0/25882 (0%)]	Loss: 0.320870	Average nonzero triplets: 121.0
+Train: [1900/25882 (25%)]	Loss: 0.568405	Average nonzero triplets: 141.37254901960785
+Train: [3400/25882 (50%)]	Loss: 0.585099	Average nonzero triplets: 142.4950495049505
+Train: [6900/25882 (74%)]	Loss: 0.536628	Average nonzero triplets: 146.9933774834437
+Train: [7800/25882 (99%)]	Loss: 0.566529	Average nonzero triplets: 147.46766169154228
+Epoch: 52/100. Train set: Average loss: 0.5633	Average nonzero triplets: 147.55445544554456
+Epoch: 52/100. Validation set: Average loss: 0.5998	Average nonzero triplets: 43.090090090090094
+Train: [0/25882 (0%)]	Loss: 0.565076	Average nonzero triplets: 307.0
+Train: [1850/25882 (25%)]	Loss: 0.557592	Average nonzero triplets: 153.23529411764707
+Train: [3800/25882 (50%)]	Loss: 0.536464	Average nonzero triplets: 157.54455445544554
+Train: [6600/25882 (74%)]	Loss: 0.544263	Average nonzero triplets: 156.11258278145695
+Train: [11400/25882 (99%)]	Loss: 0.557488	Average nonzero triplets: 157.29353233830847
+Epoch: 53/100. Train set: Average loss: 0.5498	Average nonzero triplets: 157.6980198019802
+Epoch: 53/100. Validation set: Average loss: 0.5881	Average nonzero triplets: 49.765765765765764
+Train: [0/25882 (0%)]	Loss: 0.630016	Average nonzero triplets: 332.0
+Train: [2850/25882 (25%)]	Loss: 0.573381	Average nonzero triplets: 161.3921568627451
+Train: [4600/25882 (50%)]	Loss: 0.536630	Average nonzero triplets: 154.3960396039604
+Train: [8400/25882 (74%)]	Loss: 0.544106	Average nonzero triplets: 151.72847682119206
+Train: [14400/25882 (99%)]	Loss: 0.549911	Average nonzero triplets: 149.96517412935324
+Epoch: 54/100. Train set: Average loss: 0.5510	Average nonzero triplets: 149.67326732673268
+Epoch: 54/100. Validation set: Average loss: 0.5932	Average nonzero triplets: 45.468468468468465
+Train: [0/25882 (0%)]	Loss: 0.716489	Average nonzero triplets: 111.0
+Train: [2100/25882 (25%)]	Loss: 0.579447	Average nonzero triplets: 146.68627450980392
+Train: [5700/25882 (50%)]	Loss: 0.580240	Average nonzero triplets: 148.92079207920793
+Train: [5850/25882 (74%)]	Loss: 0.559799	Average nonzero triplets: 153.28476821192052
+Train: [11200/25882 (99%)]	Loss: 0.553889	Average nonzero triplets: 156.681592039801
+Epoch: 55/100. Train set: Average loss: 0.5694	Average nonzero triplets: 156.509900990099
+Epoch: 55/100. Validation set: Average loss: 0.5807	Average nonzero triplets: 55.270270270270274
+Train: [0/25882 (0%)]	Loss: 0.573499	Average nonzero triplets: 189.0
+Train: [3350/25882 (25%)]	Loss: 0.542440	Average nonzero triplets: 154.98039215686273
+Train: [4500/25882 (50%)]	Loss: 0.544457	Average nonzero triplets: 154.07920792079207
+Train: [6600/25882 (74%)]	Loss: 0.537383	Average nonzero triplets: 153.52980132450332
+Train: [11000/25882 (99%)]	Loss: 0.556561	Average nonzero triplets: 148.71144278606965
+Epoch: 56/100. Train set: Average loss: 0.5458	Average nonzero triplets: 148.45544554455446
+Epoch: 56/100. Validation set: Average loss: 0.5929	Average nonzero triplets: 49.55855855855856
+Train: [0/25882 (0%)]	Loss: 0.420077	Average nonzero triplets: 62.0
+Train: [2350/25882 (25%)]	Loss: 0.569114	Average nonzero triplets: 154.2549019607843
+Train: [3500/25882 (50%)]	Loss: 0.559668	Average nonzero triplets: 151.65346534653466
+Train: [6900/25882 (74%)]	Loss: 0.564133	Average nonzero triplets: 150.60264900662253
+Train: [9400/25882 (99%)]	Loss: 0.551000	Average nonzero triplets: 143.38805970149255
+Epoch: 57/100. Train set: Average loss: 0.5606	Average nonzero triplets: 143.7970297029703
+Epoch: 57/100. Validation set: Average loss: 0.6067	Average nonzero triplets: 49.18018018018018
+Train: [0/25882 (0%)]	Loss: 0.642994	Average nonzero triplets: 181.0
+Train: [1950/25882 (25%)]	Loss: 0.568150	Average nonzero triplets: 149.68627450980392
+Train: [6700/25882 (50%)]	Loss: 0.562348	Average nonzero triplets: 152.47524752475246
+Train: [7500/25882 (74%)]	Loss: 0.563712	Average nonzero triplets: 152.51655629139074
+Train: [11400/25882 (99%)]	Loss: 0.552930	Average nonzero triplets: 151.22885572139305
+Epoch: 58/100. Train set: Average loss: 0.5626	Average nonzero triplets: 151.28217821782178
+Epoch: 58/100. Validation set: Average loss: 0.5981	Average nonzero triplets: 52.873873873873876
+Train: [0/25882 (0%)]	Loss: 0.595371	Average nonzero triplets: 359.0
+Train: [2250/25882 (25%)]	Loss: 0.564271	Average nonzero triplets: 147.37254901960785
+Train: [3200/25882 (50%)]	Loss: 0.566274	Average nonzero triplets: 154.93069306930693
+Train: [6150/25882 (74%)]	Loss: 0.558402	Average nonzero triplets: 151.0066225165563
+Train: [10000/25882 (99%)]	Loss: 0.556913	Average nonzero triplets: 154.97014925373134
+Epoch: 59/100. Train set: Average loss: 0.5626	Average nonzero triplets: 154.5891089108911
+Epoch: 59/100. Validation set: Average loss: 0.5691	Average nonzero triplets: 47.567567567567565
+Train: [0/25882 (0%)]	Loss: 0.614220	Average nonzero triplets: 152.0
+Train: [3400/25882 (25%)]	Loss: 0.557743	Average nonzero triplets: 160.6078431372549
+Train: [5200/25882 (50%)]	Loss: 0.561825	Average nonzero triplets: 153.63366336633663
+Train: [6000/25882 (74%)]	Loss: 0.571357	Average nonzero triplets: 157.21192052980132
+Train: [7600/25882 (99%)]	Loss: 0.555171	Average nonzero triplets: 155.20398009950247
+Epoch: 60/100. Train set: Average loss: 0.5624	Average nonzero triplets: 154.88118811881188
+Epoch: 60/100. Validation set: Average loss: 0.5728	Average nonzero triplets: 51.85585585585586
+Train: [0/25882 (0%)]	Loss: 0.505340	Average nonzero triplets: 142.0
+Train: [2300/25882 (25%)]	Loss: 0.575674	Average nonzero triplets: 152.2549019607843
+Train: [3900/25882 (50%)]	Loss: 0.531338	Average nonzero triplets: 145.4851485148515
+Train: [7200/25882 (74%)]	Loss: 0.525961	Average nonzero triplets: 149.3112582781457
+Train: [11400/25882 (99%)]	Loss: 0.557829	Average nonzero triplets: 155.6766169154229
+Epoch: 61/100. Train set: Average loss: 0.5474	Average nonzero triplets: 155.4851485148515
+Epoch: 61/100. Validation set: Average loss: 0.6268	Average nonzero triplets: 42.31531531531532
+Train: [0/25882 (0%)]	Loss: 0.841959	Average nonzero triplets: 96.0
+Train: [2250/25882 (25%)]	Loss: 0.561692	Average nonzero triplets: 155.88235294117646
+Train: [4500/25882 (50%)]	Loss: 0.552680	Average nonzero triplets: 145.25742574257427
+Train: [7500/25882 (74%)]	Loss: 0.549026	Average nonzero triplets: 147.3841059602649
+Train: [9400/25882 (99%)]	Loss: 0.575793	Average nonzero triplets: 148.7363184079602
+Epoch: 62/100. Train set: Average loss: 0.5609	Average nonzero triplets: 148.7871287128713
+Epoch: 62/100. Validation set: Average loss: 0.6071	Average nonzero triplets: 44.450450450450454
+Train: [0/25882 (0%)]	Loss: 0.444035	Average nonzero triplets: 82.0
+Train: [2400/25882 (25%)]	Loss: 0.582844	Average nonzero triplets: 150.13725490196077
+Train: [5200/25882 (50%)]	Loss: 0.537365	Average nonzero triplets: 149.4950495049505
+Train: [7500/25882 (74%)]	Loss: 0.537711	Average nonzero triplets: 151.58940397350995
+Train: [8000/25882 (99%)]	Loss: 0.559319	Average nonzero triplets: 148.7810945273632
+Epoch: 63/100. Train set: Average loss: 0.5549	Average nonzero triplets: 148.85148514851485
+Epoch: 63/100. Validation set: Average loss: 0.5758	Average nonzero triplets: 46.42342342342342
+Train: [0/25882 (0%)]	Loss: 0.578836	Average nonzero triplets: 76.0
+Train: [2050/25882 (25%)]	Loss: 0.527201	Average nonzero triplets: 148.47058823529412
+Train: [4300/25882 (50%)]	Loss: 0.536774	Average nonzero triplets: 144.15841584158414
+Train: [7950/25882 (74%)]	Loss: 0.557129	Average nonzero triplets: 141.64900662251657
+Train: [9200/25882 (99%)]	Loss: 0.552310	Average nonzero triplets: 140.19402985074626
+Epoch: 64/100. Train set: Average loss: 0.5434	Average nonzero triplets: 140.35148514851485
+Epoch: 64/100. Validation set: Average loss: 0.5785	Average nonzero triplets: 50.62162162162162
+Train: [0/25882 (0%)]	Loss: 0.677512	Average nonzero triplets: 90.0
+Train: [2300/25882 (25%)]	Loss: 0.557583	Average nonzero triplets: 140.66666666666666
+Train: [5000/25882 (50%)]	Loss: 0.550900	Average nonzero triplets: 148.4950495049505
+Train: [5850/25882 (74%)]	Loss: 0.584093	Average nonzero triplets: 151.21192052980132
+Train: [18400/25882 (99%)]	Loss: 0.523963	Average nonzero triplets: 149.9402985074627
+Epoch: 65/100. Train set: Average loss: 0.5544	Average nonzero triplets: 151.40594059405942
+Epoch: 65/100. Validation set: Average loss: 0.5806	Average nonzero triplets: 45.86486486486486
+Train: [0/25882 (0%)]	Loss: 0.867887	Average nonzero triplets: 290.0
+Train: [2200/25882 (25%)]	Loss: 0.592841	Average nonzero triplets: 154.66666666666666
+Train: [4500/25882 (50%)]	Loss: 0.564918	Average nonzero triplets: 151.12871287128712
+Train: [7500/25882 (74%)]	Loss: 0.564032	Average nonzero triplets: 147.74834437086093
+Train: [8600/25882 (99%)]	Loss: 0.544414	Average nonzero triplets: 149.044776119403
+Epoch: 66/100. Train set: Average loss: 0.5679	Average nonzero triplets: 148.57920792079207
+Epoch: 66/100. Validation set: Average loss: 0.5924	Average nonzero triplets: 49.81981981981982
+Train: [0/25882 (0%)]	Loss: 0.858635	Average nonzero triplets: 327.0
+Train: [1900/25882 (25%)]	Loss: 0.547900	Average nonzero triplets: 140.7843137254902
+Train: [5100/25882 (50%)]	Loss: 0.579472	Average nonzero triplets: 153.65346534653466
+Train: [10200/25882 (74%)]	Loss: 0.586577	Average nonzero triplets: 152.95364238410596
+Train: [8000/25882 (99%)]	Loss: 0.556067	Average nonzero triplets: 149.39800995024876
+Epoch: 67/100. Train set: Average loss: 0.5695	Average nonzero triplets: 150.62376237623764
+Epoch: 67/100. Validation set: Average loss: 0.5726	Average nonzero triplets: 47.513513513513516
+Train: [0/25882 (0%)]	Loss: 0.422869	Average nonzero triplets: 114.0
+Train: [3100/25882 (25%)]	Loss: 0.558121	Average nonzero triplets: 135.15686274509804
+Train: [4800/25882 (50%)]	Loss: 0.559296	Average nonzero triplets: 136.98019801980197
+Train: [7500/25882 (74%)]	Loss: 0.560428	Average nonzero triplets: 135.89403973509934
+Train: [10400/25882 (99%)]	Loss: 0.562684	Average nonzero triplets: 139.1144278606965
+Epoch: 68/100. Train set: Average loss: 0.5585	Average nonzero triplets: 138.8118811881188
+Epoch: 68/100. Validation set: Average loss: 0.5726	Average nonzero triplets: 49.333333333333336
+Train: [0/25882 (0%)]	Loss: 0.698069	Average nonzero triplets: 55.0
+Train: [2700/25882 (25%)]	Loss: 0.534642	Average nonzero triplets: 154.2549019607843
+Train: [5000/25882 (50%)]	Loss: 0.529684	Average nonzero triplets: 165.31683168316832
+Train: [6750/25882 (74%)]	Loss: 0.548249	Average nonzero triplets: 158.01324503311258
+Train: [8000/25882 (99%)]	Loss: 0.566017	Average nonzero triplets: 155.19900497512438
+Epoch: 69/100. Train set: Average loss: 0.5457	Average nonzero triplets: 155.22772277227722
+Epoch: 69/100. Validation set: Average loss: 0.5965	Average nonzero triplets: 48.306306306306304
+Train: [0/25882 (0%)]	Loss: 0.617677	Average nonzero triplets: 422.0
+Train: [2200/25882 (25%)]	Loss: 0.543117	Average nonzero triplets: 140.84313725490196
+Train: [4500/25882 (50%)]	Loss: 0.546246	Average nonzero triplets: 147.25742574257427
+Train: [7050/25882 (74%)]	Loss: 0.576171	Average nonzero triplets: 153.58940397350995
+Train: [12000/25882 (99%)]	Loss: 0.554192	Average nonzero triplets: 149.99502487562188
+Epoch: 70/100. Train set: Average loss: 0.5556	Average nonzero triplets: 150.07920792079207
+Epoch: 70/100. Validation set: Average loss: 0.6058	Average nonzero triplets: 47.62162162162162
+Train: [0/25882 (0%)]	Loss: 0.655539	Average nonzero triplets: 147.0
+Train: [2950/25882 (25%)]	Loss: 0.568136	Average nonzero triplets: 175.1764705882353
+Train: [4800/25882 (50%)]	Loss: 0.587825	Average nonzero triplets: 159.96039603960395
+Train: [8400/25882 (74%)]	Loss: 0.571698	Average nonzero triplets: 154.4569536423841
+Train: [10200/25882 (99%)]	Loss: 0.540845	Average nonzero triplets: 155.40298507462686
+Epoch: 71/100. Train set: Average loss: 0.5679	Average nonzero triplets: 155.52970297029702
+Epoch: 71/100. Validation set: Average loss: 0.6283	Average nonzero triplets: 49.1981981981982
+Train: [0/25882 (0%)]	Loss: 0.590131	Average nonzero triplets: 77.0
+Train: [2800/25882 (25%)]	Loss: 0.584584	Average nonzero triplets: 151.64705882352942
+Train: [4600/25882 (50%)]	Loss: 0.540101	Average nonzero triplets: 167.2871287128713
+Train: [7200/25882 (74%)]	Loss: 0.575664	Average nonzero triplets: 163.49668874172184
+Train: [9600/25882 (99%)]	Loss: 0.552970	Average nonzero triplets: 156.64676616915423
+Epoch: 72/100. Train set: Average loss: 0.5641	Average nonzero triplets: 156.09405940594058
+Epoch: 72/100. Validation set: Average loss: 0.6160	Average nonzero triplets: 53.531531531531535
+Train: [0/25882 (0%)]	Loss: 0.600986	Average nonzero triplets: 86.0
+Train: [3800/25882 (25%)]	Loss: 0.518855	Average nonzero triplets: 151.76470588235293
+Train: [6000/25882 (50%)]	Loss: 0.543745	Average nonzero triplets: 160.8118811881188
+Train: [8550/25882 (74%)]	Loss: 0.545051	Average nonzero triplets: 157.98013245033113
+Train: [9600/25882 (99%)]	Loss: 0.549282	Average nonzero triplets: 159.4726368159204
+Epoch: 73/100. Train set: Average loss: 0.5400	Average nonzero triplets: 159.36633663366337
+Epoch: 73/100. Validation set: Average loss: 0.5722	Average nonzero triplets: 42.98198198198198
+Train: [0/25882 (0%)]	Loss: 0.593525	Average nonzero triplets: 267.0
+Train: [2800/25882 (25%)]	Loss: 0.565801	Average nonzero triplets: 155.47058823529412
+Train: [5800/25882 (50%)]	Loss: 0.572366	Average nonzero triplets: 156.2871287128713
+Train: [6900/25882 (74%)]	Loss: 0.546877	Average nonzero triplets: 152.33112582781456
+Train: [8000/25882 (99%)]	Loss: 0.590471	Average nonzero triplets: 152.0597014925373
+Epoch: 74/100. Train set: Average loss: 0.5698	Average nonzero triplets: 151.77227722772278
+Epoch: 74/100. Validation set: Average loss: 0.5903	Average nonzero triplets: 51.765765765765764
+Train: [0/25882 (0%)]	Loss: 0.696222	Average nonzero triplets: 198.0
+Train: [2100/25882 (25%)]	Loss: 0.558236	Average nonzero triplets: 144.2941176470588
+Train: [6300/25882 (50%)]	Loss: 0.577397	Average nonzero triplets: 147.41584158415841
+Train: [8550/25882 (74%)]	Loss: 0.572292	Average nonzero triplets: 146.23841059602648
+Train: [8800/25882 (99%)]	Loss: 0.572718	Average nonzero triplets: 144.30348258706468
+Epoch: 75/100. Train set: Average loss: 0.5709	Average nonzero triplets: 144.02475247524754
+Epoch: 75/100. Validation set: Average loss: 0.5875	Average nonzero triplets: 44.73873873873874
+Train: [0/25882 (0%)]	Loss: 0.650455	Average nonzero triplets: 176.0
+Train: [2950/25882 (25%)]	Loss: 0.539228	Average nonzero triplets: 165.84313725490196
+Train: [5100/25882 (50%)]	Loss: 0.579541	Average nonzero triplets: 151.52475247524754
+Train: [6900/25882 (74%)]	Loss: 0.533206	Average nonzero triplets: 149.33112582781456
+Train: [10200/25882 (99%)]	Loss: 0.544662	Average nonzero triplets: 150.33830845771143
+Epoch: 76/100. Train set: Average loss: 0.5493	Average nonzero triplets: 150.0990099009901
+Epoch: 76/100. Validation set: Average loss: 0.5656	Average nonzero triplets: 48.369369369369366
+Train: [0/25882 (0%)]	Loss: 0.775060	Average nonzero triplets: 121.0
+Train: [2400/25882 (25%)]	Loss: 0.581768	Average nonzero triplets: 143.86274509803923
+Train: [4900/25882 (50%)]	Loss: 0.551088	Average nonzero triplets: 147.85148514851485
+Train: [8850/25882 (74%)]	Loss: 0.560582	Average nonzero triplets: 147.17218543046357
+Train: [7800/25882 (99%)]	Loss: 0.592583	Average nonzero triplets: 148.33333333333334
+Epoch: 77/100. Train set: Average loss: 0.5723	Average nonzero triplets: 147.7871287128713
+Epoch: 77/100. Validation set: Average loss: 0.5632	Average nonzero triplets: 44.1981981981982
+Train: [0/25882 (0%)]	Loss: 0.698902	Average nonzero triplets: 138.0
+Train: [2650/25882 (25%)]	Loss: 0.539900	Average nonzero triplets: 145.37254901960785
+Train: [4600/25882 (50%)]	Loss: 0.573689	Average nonzero triplets: 147.68316831683168
+Train: [5550/25882 (74%)]	Loss: 0.548392	Average nonzero triplets: 149.74834437086093
+Train: [8000/25882 (99%)]	Loss: 0.577318	Average nonzero triplets: 147.77114427860695
+Epoch: 78/100. Train set: Average loss: 0.5611	Average nonzero triplets: 147.46534653465346
+Epoch: 78/100. Validation set: Average loss: 0.5931	Average nonzero triplets: 53.47747747747748
+Train: [0/25882 (0%)]	Loss: 0.546448	Average nonzero triplets: 134.0
+Train: [2250/25882 (25%)]	Loss: 0.571959	Average nonzero triplets: 151.88235294117646
+Train: [6200/25882 (50%)]	Loss: 0.567638	Average nonzero triplets: 152.65346534653466
+Train: [7050/25882 (74%)]	Loss: 0.573162	Average nonzero triplets: 150.0728476821192
+Train: [9200/25882 (99%)]	Loss: 0.582317	Average nonzero triplets: 148.40796019900498
+Epoch: 79/100. Train set: Average loss: 0.5733	Average nonzero triplets: 148.12376237623764
+Epoch: 79/100. Validation set: Average loss: 0.6034	Average nonzero triplets: 45.93693693693694
+Train: [0/25882 (0%)]	Loss: 0.601139	Average nonzero triplets: 208.0
+Train: [2600/25882 (25%)]	Loss: 0.566217	Average nonzero triplets: 143.52941176470588
+Train: [5100/25882 (50%)]	Loss: 0.568302	Average nonzero triplets: 156.97029702970298
+Train: [6450/25882 (74%)]	Loss: 0.567738	Average nonzero triplets: 154.11258278145695
+Train: [7200/25882 (99%)]	Loss: 0.559812	Average nonzero triplets: 151.60696517412936
+Epoch: 80/100. Train set: Average loss: 0.5654	Average nonzero triplets: 151.37128712871288
+Epoch: 80/100. Validation set: Average loss: 0.5791	Average nonzero triplets: 48.027027027027025
+Train: [0/25882 (0%)]	Loss: 0.303210	Average nonzero triplets: 92.0
+Train: [2800/25882 (25%)]	Loss: 0.548795	Average nonzero triplets: 136.49019607843138
+Train: [4000/25882 (50%)]	Loss: 0.564100	Average nonzero triplets: 139.73267326732673
+Train: [7800/25882 (74%)]	Loss: 0.563856	Average nonzero triplets: 141.16556291390728
+Train: [7600/25882 (99%)]	Loss: 0.569041	Average nonzero triplets: 143.11940298507463
+Epoch: 81/100. Train set: Average loss: 0.5596	Average nonzero triplets: 143.13861386138615
+Epoch: 81/100. Validation set: Average loss: 0.5706	Average nonzero triplets: 52.81981981981982
+Train: [0/25882 (0%)]	Loss: 0.849455	Average nonzero triplets: 129.0
+Train: [2350/25882 (25%)]	Loss: 0.552280	Average nonzero triplets: 163.19607843137254
+Train: [4500/25882 (50%)]	Loss: 0.547320	Average nonzero triplets: 151.30693069306932
+Train: [9600/25882 (74%)]	Loss: 0.540427	Average nonzero triplets: 155.0
+Train: [9800/25882 (99%)]	Loss: 0.529683	Average nonzero triplets: 152.19402985074626
+Epoch: 82/100. Train set: Average loss: 0.5448	Average nonzero triplets: 151.76237623762376
+Epoch: 82/100. Validation set: Average loss: 0.5897	Average nonzero triplets: 50.14414414414414
+Train: [0/25882 (0%)]	Loss: 0.626910	Average nonzero triplets: 108.0
+Train: [1950/25882 (25%)]	Loss: 0.572901	Average nonzero triplets: 146.23529411764707
+Train: [5300/25882 (50%)]	Loss: 0.577998	Average nonzero triplets: 146.21782178217822
+Train: [7800/25882 (74%)]	Loss: 0.580775	Average nonzero triplets: 148.7682119205298
+Train: [8400/25882 (99%)]	Loss: 0.579903	Average nonzero triplets: 147.83582089552237
+Epoch: 83/100. Train set: Average loss: 0.5770	Average nonzero triplets: 148.03465346534654
+Epoch: 83/100. Validation set: Average loss: 0.5744	Average nonzero triplets: 55.32432432432432
+Train: [0/25882 (0%)]	Loss: 0.581744	Average nonzero triplets: 124.0
+Train: [2850/25882 (25%)]	Loss: 0.566258	Average nonzero triplets: 162.31372549019608
+Train: [4100/25882 (50%)]	Loss: 0.533390	Average nonzero triplets: 144.7128712871287
+Train: [9150/25882 (74%)]	Loss: 0.548703	Average nonzero triplets: 147.0
+Train: [10800/25882 (99%)]	Loss: 0.524413	Average nonzero triplets: 146.66169154228857
+Epoch: 84/100. Train set: Average loss: 0.5421	Average nonzero triplets: 146.2970297029703
+Epoch: 84/100. Validation set: Average loss: 0.5980	Average nonzero triplets: 46.4954954954955
+Train: [0/25882 (0%)]	Loss: 0.552991	Average nonzero triplets: 45.0
+Train: [2450/25882 (25%)]	Loss: 0.558392	Average nonzero triplets: 159.0
+Train: [4200/25882 (50%)]	Loss: 0.596994	Average nonzero triplets: 154.95049504950495
+Train: [7350/25882 (74%)]	Loss: 0.589838	Average nonzero triplets: 156.97350993377484
+Train: [7600/25882 (99%)]	Loss: 0.562347	Average nonzero triplets: 154.87064676616916
+Epoch: 85/100. Train set: Average loss: 0.5766	Average nonzero triplets: 155.03960396039605
+Epoch: 85/100. Validation set: Average loss: 0.5730	Average nonzero triplets: 53.16216216216216
+Train: [0/25882 (0%)]	Loss: 0.628615	Average nonzero triplets: 202.0
+Train: [2600/25882 (25%)]	Loss: 0.592752	Average nonzero triplets: 150.58823529411765
+Train: [5400/25882 (50%)]	Loss: 0.567724	Average nonzero triplets: 152.62376237623764
+Train: [9600/25882 (74%)]	Loss: 0.574863	Average nonzero triplets: 148.60264900662253
+Train: [16200/25882 (99%)]	Loss: 0.554917	Average nonzero triplets: 146.16417910447763
+Epoch: 86/100. Train set: Average loss: 0.5735	Average nonzero triplets: 145.9108910891089
+Epoch: 86/100. Validation set: Average loss: 0.6088	Average nonzero triplets: 44.630630630630634
+Train: [0/25882 (0%)]	Loss: 0.732949	Average nonzero triplets: 182.0
+Train: [3650/25882 (25%)]	Loss: 0.573422	Average nonzero triplets: 146.68627450980392
+Train: [5400/25882 (50%)]	Loss: 0.529063	Average nonzero triplets: 141.79207920792078
+Train: [7050/25882 (74%)]	Loss: 0.575116	Average nonzero triplets: 150.90728476821192
+Train: [7000/25882 (99%)]	Loss: 0.593163	Average nonzero triplets: 148.82587064676616
+Epoch: 87/100. Train set: Average loss: 0.5683	Average nonzero triplets: 149.25742574257427
+Epoch: 87/100. Validation set: Average loss: 0.5995	Average nonzero triplets: 50.5045045045045
+Train: [0/25882 (0%)]	Loss: 0.588406	Average nonzero triplets: 171.0
+Train: [2650/25882 (25%)]	Loss: 0.539460	Average nonzero triplets: 144.27450980392157
+Train: [4100/25882 (50%)]	Loss: 0.559662	Average nonzero triplets: 135.32673267326732
+Train: [7650/25882 (74%)]	Loss: 0.576126	Average nonzero triplets: 140.5562913907285
+Train: [7600/25882 (99%)]	Loss: 0.574836	Average nonzero triplets: 146.28855721393035
+Epoch: 88/100. Train set: Average loss: 0.5626	Average nonzero triplets: 146.61881188118812
+Epoch: 88/100. Validation set: Average loss: 0.5718	Average nonzero triplets: 47.792792792792795
+Train: [0/25882 (0%)]	Loss: 0.750275	Average nonzero triplets: 133.0
+Train: [2600/25882 (25%)]	Loss: 0.540184	Average nonzero triplets: 152.01960784313727
+Train: [3800/25882 (50%)]	Loss: 0.556859	Average nonzero triplets: 144.26732673267327
+Train: [5550/25882 (74%)]	Loss: 0.577902	Average nonzero triplets: 145.89403973509934
+Train: [9600/25882 (99%)]	Loss: 0.528860	Average nonzero triplets: 147.3134328358209
+Epoch: 89/100. Train set: Average loss: 0.5523	Average nonzero triplets: 147.12376237623764
+Epoch: 89/100. Validation set: Average loss: 0.5649	Average nonzero triplets: 44.88288288288288
+Train: [0/25882 (0%)]	Loss: 0.641432	Average nonzero triplets: 79.0
+Train: [3550/25882 (25%)]	Loss: 0.567804	Average nonzero triplets: 151.7450980392157
+Train: [4500/25882 (50%)]	Loss: 0.544989	Average nonzero triplets: 139.82178217821783
+Train: [5400/25882 (74%)]	Loss: 0.546208	Average nonzero triplets: 143.9205298013245
+Train: [7400/25882 (99%)]	Loss: 0.574185	Average nonzero triplets: 147.47761194029852
+Epoch: 90/100. Train set: Average loss: 0.5586	Average nonzero triplets: 147.05940594059405
+Epoch: 90/100. Validation set: Average loss: 0.6002	Average nonzero triplets: 45.828828828828826
+Train: [0/25882 (0%)]	Loss: 0.599029	Average nonzero triplets: 158.0
+Train: [1900/25882 (25%)]	Loss: 0.581948	Average nonzero triplets: 151.19607843137254
+Train: [4900/25882 (50%)]	Loss: 0.555603	Average nonzero triplets: 147.17821782178217
+Train: [7500/25882 (74%)]	Loss: 0.566997	Average nonzero triplets: 146.13907284768212
+Train: [15800/25882 (99%)]	Loss: 0.564780	Average nonzero triplets: 148.92039800995025
+Epoch: 91/100. Train set: Average loss: 0.5682	Average nonzero triplets: 148.48019801980197
+Epoch: 91/100. Validation set: Average loss: 0.5889	Average nonzero triplets: 56.01801801801802
+Train: [0/25882 (0%)]	Loss: 0.493089	Average nonzero triplets: 48.0
+Train: [2850/25882 (25%)]	Loss: 0.592515	Average nonzero triplets: 158.52941176470588
+Train: [5100/25882 (50%)]	Loss: 0.598272	Average nonzero triplets: 158.3960396039604
+Train: [7350/25882 (74%)]	Loss: 0.560675	Average nonzero triplets: 156.3112582781457
+Train: [12800/25882 (99%)]	Loss: 0.531195	Average nonzero triplets: 155.1592039800995
+Epoch: 92/100. Train set: Average loss: 0.5702	Average nonzero triplets: 154.8861386138614
+Epoch: 92/100. Validation set: Average loss: 0.5746	Average nonzero triplets: 49.054054054054056
+Train: [0/25882 (0%)]	Loss: 0.596873	Average nonzero triplets: 121.0
+Train: [2450/25882 (25%)]	Loss: 0.557422	Average nonzero triplets: 155.68627450980392
+Train: [4200/25882 (50%)]	Loss: 0.568099	Average nonzero triplets: 158.02970297029702
+Train: [8250/25882 (74%)]	Loss: 0.532908	Average nonzero triplets: 149.25827814569536
+Train: [11200/25882 (99%)]	Loss: 0.568204	Average nonzero triplets: 155.2636815920398
+Epoch: 93/100. Train set: Average loss: 0.5571	Average nonzero triplets: 155.03465346534654
+Epoch: 93/100. Validation set: Average loss: 0.6096	Average nonzero triplets: 46.450450450450454
+Train: [0/25882 (0%)]	Loss: 0.432057	Average nonzero triplets: 156.0
+Train: [2500/25882 (25%)]	Loss: 0.574150	Average nonzero triplets: 150.01960784313727
+Train: [5200/25882 (50%)]	Loss: 0.567737	Average nonzero triplets: 155.17821782178217
+Train: [6750/25882 (74%)]	Loss: 0.570287	Average nonzero triplets: 152.17218543046357
+Train: [8000/25882 (99%)]	Loss: 0.570798	Average nonzero triplets: 152.40796019900498
+Epoch: 94/100. Train set: Average loss: 0.5692	Average nonzero triplets: 152.06435643564356
+Epoch: 94/100. Validation set: Average loss: 0.5812	Average nonzero triplets: 51.630630630630634
+Train: [0/25882 (0%)]	Loss: 0.577762	Average nonzero triplets: 112.0
+Train: [2600/25882 (25%)]	Loss: 0.525906	Average nonzero triplets: 144.01960784313727
+Train: [5700/25882 (50%)]	Loss: 0.557128	Average nonzero triplets: 149.25742574257427
+Train: [4950/25882 (74%)]	Loss: 0.566355	Average nonzero triplets: 154.50331125827816
+Train: [8600/25882 (99%)]	Loss: 0.533570	Average nonzero triplets: 148.5174129353234
+Epoch: 95/100. Train set: Average loss: 0.5463	Average nonzero triplets: 148.3019801980198
+Epoch: 95/100. Validation set: Average loss: 0.5875	Average nonzero triplets: 42.0990990990991
+Train: [0/25882 (0%)]	Loss: 0.420698	Average nonzero triplets: 103.0
+Train: [2250/25882 (25%)]	Loss: 0.540162	Average nonzero triplets: 155.45098039215685
+Train: [5900/25882 (50%)]	Loss: 0.556615	Average nonzero triplets: 158.83168316831683
+Train: [9600/25882 (74%)]	Loss: 0.535611	Average nonzero triplets: 157.43046357615893
+Train: [6800/25882 (99%)]	Loss: 0.564079	Average nonzero triplets: 155.01990049751242
+Epoch: 96/100. Train set: Average loss: 0.5483	Average nonzero triplets: 154.94554455445544
+Epoch: 96/100. Validation set: Average loss: 0.6045	Average nonzero triplets: 55.369369369369366
+Train: [0/25882 (0%)]	Loss: 0.429809	Average nonzero triplets: 256.0
+Train: [2050/25882 (25%)]	Loss: 0.554355	Average nonzero triplets: 147.9607843137255
+Train: [6500/25882 (50%)]	Loss: 0.563758	Average nonzero triplets: 159.04950495049505
+Train: [6900/25882 (74%)]	Loss: 0.536346	Average nonzero triplets: 155.8543046357616
+Train: [8000/25882 (99%)]	Loss: 0.543807	Average nonzero triplets: 155.88059701492537
+Epoch: 97/100. Train set: Average loss: 0.5494	Average nonzero triplets: 156.3861386138614
+Epoch: 97/100. Validation set: Average loss: 0.5976	Average nonzero triplets: 46.75675675675676
+Train: [0/25882 (0%)]	Loss: 0.615509	Average nonzero triplets: 194.0
+Train: [2400/25882 (25%)]	Loss: 0.554968	Average nonzero triplets: 137.58823529411765
+Train: [3900/25882 (50%)]	Loss: 0.530998	Average nonzero triplets: 134.36633663366337
+Train: [5400/25882 (74%)]	Loss: 0.560651	Average nonzero triplets: 136.2980132450331
+Train: [9600/25882 (99%)]	Loss: 0.560736	Average nonzero triplets: 143.6865671641791
+Epoch: 98/100. Train set: Average loss: 0.5522	Average nonzero triplets: 144.15841584158414
+Epoch: 98/100. Validation set: Average loss: 0.5899	Average nonzero triplets: 48.14414414414414
+Train: [0/25882 (0%)]	Loss: 0.612387	Average nonzero triplets: 204.0
+Train: [1800/25882 (25%)]	Loss: 0.579430	Average nonzero triplets: 145.72549019607843
+Train: [3600/25882 (50%)]	Loss: 0.557450	Average nonzero triplets: 148.85148514851485
+Train: [6600/25882 (74%)]	Loss: 0.540102	Average nonzero triplets: 148.59602649006624
+Train: [9200/25882 (99%)]	Loss: 0.558579	Average nonzero triplets: 148.20398009950247
+Epoch: 99/100. Train set: Average loss: 0.5589	Average nonzero triplets: 147.74752475247524
+Epoch: 99/100. Validation set: Average loss: 0.5853	Average nonzero triplets: 49.72072072072072
+Train: [0/25882 (0%)]	Loss: 0.540745	Average nonzero triplets: 157.0
+Train: [1950/25882 (25%)]	Loss: 0.576860	Average nonzero triplets: 145.7843137254902
+Train: [5700/25882 (50%)]	Loss: 0.564824	Average nonzero triplets: 153.67326732673268
+Train: [5250/25882 (74%)]	Loss: 0.574390	Average nonzero triplets: 149.88741721854305
+Train: [14800/25882 (99%)]	Loss: 0.530719	Average nonzero triplets: 151.71144278606965

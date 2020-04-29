@@ -60,7 +60,7 @@ class InShopDataset(Dataset):
 
         # read labels
         self.labels = np.loadtxt(label_file, dtype=np.float32)
-
+        self.train_labels = self.ids
         self.img_size = img_size
         self.roi_plane_size = roi_plane_size
 
@@ -160,13 +160,15 @@ class InShopDataset(Dataset):
             'triplet_pos_label': triplet_pos_label,
             'triplet_neg_label': triplet_neg_label
         }
-        return data
+        # return data
+        return (anchor_data['img'], pos_data['img'], neg_data['img']), []
 
     def __getitem__(self, idx):
         if self.find_three:
             return self.get_three_items(idx)
         else:
-            return self.get_basic_item(idx)
+            data = self.get_basic_item(idx)
+            return (data['img'], data['id'])
 
     def __len__(self):
         return len(self.img_list)

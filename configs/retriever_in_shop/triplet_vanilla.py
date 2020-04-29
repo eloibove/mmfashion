@@ -21,11 +21,12 @@ model = dict(
         inchannels=4096,
         inter_channels=[256, id_num],
         loss_id=dict(type='CELoss', ratio=1),
-        loss_triplet=None),
+        loss_triplet=dict(type='TripletLoss', method='cosine', margin=0.)),
     attr_predictor=None,
     pretrained='checkpoint/vgg16.pth')
 
 pooling = 'Global'
+
 # extract_feature or not
 extract_feature = False
 
@@ -48,7 +49,7 @@ data = dict(
         img_size=img_size,
         roi_plane_size=7,
         retrieve=retrieve,
-        find_three=False),
+        find_three=True),
     query=dict(
         type=dataset_type,
         img_path=os.path.join(data_root, 'Img'),
@@ -60,7 +61,7 @@ data = dict(
         img_size=img_size,
         roi_plane_size=7,
         retrieve=retrieve,
-        find_three=False),
+        find_three=True),
     gallery=dict(
         type=dataset_type,
         img_path=os.path.join(data_root, 'Img'),
@@ -72,7 +73,7 @@ data = dict(
         img_size=img_size,
         roi_plane_size=7,
         retrieve=retrieve,
-        find_three=False))
+        find_three=True))
 
 # optimizer
 optimizer = dict(type='SGD', lr=1e-3, momentum=0.9)
@@ -95,7 +96,7 @@ log_config = dict(
 start_epoch = 0
 total_epochs = 100
 gpus = dict(train=[0], test=[0])
-work_dir = 'checkpoint/Retrieve/vgg/siamese/'
+work_dir = 'checkpoint/Retrieve/vgg/global/no_attr_no_triplet'
 print_interval = 20  # interval to print information
 resume_from = None
 load_from = None
