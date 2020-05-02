@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "tools/evaluate_retrieval.py", line 73, in <module>
+    pickle.dump(embeddings_gallery, open('embeddings_gallery.pkl','wb'))
+NameError: name 'pickle' is not defined

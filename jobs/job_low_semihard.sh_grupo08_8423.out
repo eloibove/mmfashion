@@ -1,7 +1,0 @@
-datasets loaded
-dataloader built
-Computed descriptors! Evaluating...
-Recall @ 3 = 0.01315234210156144
-Recall @ 5 = 0.01592933839733664
-Recall @ 10 = 0.024239171450452936
-Recall @ 20 = 0.03914223491921906

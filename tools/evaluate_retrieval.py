@@ -44,7 +44,7 @@ print('dataloader built',flush=True)
 # Build model and load checkpoint
 # model = build_retriever(cfg.model)
 model = Vgg16L2(num_dim=128) 
-model.load_state_dict(torch.load('checkpoint/siamese_app_100_epochs_8_12.pth'))
+model.load_state_dict(torch.load('checkpoint/siamese_hnm_100_epochs_8_12.pth'))
 model.eval()
 model.cuda()
 cuda = True
@@ -58,7 +58,7 @@ model.eval()
 model.cuda()
 cuda = True
 """
-
+import pickle
 # Compute the embeddings for the gallery set
 embeddings_gallery = []
 ids_gallery = []
@@ -70,12 +70,14 @@ with torch.no_grad():
         embeddings_gallery.append(outputs[0].cpu().numpy())
         ids_gallery.append(target.item())
 
+    pickle.dump(embeddings_gallery, open('embeddings_gallery.pkl','wb'))
+    pickle.dump(ids_gallery, open('ids_gallery.pkl','wb'))
     # Count the number of occurences of each query
     unique, counts = np.unique(ids_gallery, return_counts=True)
     occurrences = dict(zip(unique, counts))
 
     # For each query, compute the descriptor and find the K-NN
-    K=[3, 5, 10, 20]
+    K=[50]
     knn = NearestNeighbors(n_neighbors=max(K), algorithm='brute')
     knn.fit(embeddings_gallery)
 
@@ -90,6 +92,9 @@ with torch.no_grad():
         ids_query.append(query_id)
         neighbors = knn.kneighbors([query_embedding], max(K), return_distance=False)
         neighbor_list.append(neighbors)
+
+    pickle.dump(neighbor_list, open('neighbor_list.pkl','wb'))
+    pickle.dump(ids_query, open('ids_query.pkl','wb'))
 
     print('Computed descriptors! Evaluating...',flush=True)
 
