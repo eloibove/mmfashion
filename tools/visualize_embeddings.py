@@ -76,7 +76,7 @@ with torch.no_grad():
     with open('embeddings.tsv', 'w') as tsvfile:
         writer = csv.writer(tsvfile, delimiter='\t', lineterminator='\n')
         
-        for row in embeddings_gallery:
+        for i, row in enumerate(embeddings_gallery):
             writer.writerow(row)
 
     print('saved to file!', flush=True)
